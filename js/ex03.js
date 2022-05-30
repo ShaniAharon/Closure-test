@@ -43,7 +43,7 @@
 //             console.log('num', num);
 //         },
 //         i * 1000,
-//         i // paramter to the func
+//         i // paramater to the func
 //     );
 // }
 
